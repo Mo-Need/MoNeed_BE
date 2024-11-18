@@ -1,11 +1,3 @@
----
-name: Bug 이슈 템플릿
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
----
 
 ## 어떤 버그인가요?
 
